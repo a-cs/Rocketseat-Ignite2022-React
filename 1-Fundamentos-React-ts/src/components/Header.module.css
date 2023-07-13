@@ -1,0 +1,16 @@
+.header {
+	background-color: var(--gray-800);
+	display: flex;
+	justify-content: center;
+	padding: 1.25rem 0;
+}
+
+.header img{
+	height: 4rem;
+	margin-right: 1rem;
+}
+
+.header h1{
+	line-height: 4rem;
+	vertical-align: middle;
+}
