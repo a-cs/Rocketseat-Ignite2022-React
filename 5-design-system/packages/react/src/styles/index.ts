@@ -22,7 +22,7 @@ export const {
   themeMap: {
     ...defaultThemeMap,
     height: 'space',
-    width: 'soace',
+    width: 'space',
   },
   theme: {
     colors,
